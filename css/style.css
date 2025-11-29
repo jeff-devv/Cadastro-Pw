@@ -112,6 +112,20 @@ footer{
     border-top: 3px solid red;
 }
 
+.right{
+    display: block;
+    width: 10%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #1b952d;
+    color: #fff;
+    border-radius: 5px;
+    padding: 15px;
+    transition: .4s;
+    left: 50px;
+}
+
 
 
 

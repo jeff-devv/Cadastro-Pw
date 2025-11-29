@@ -100,6 +100,19 @@ h2{
     padding: 15px;
     transition: .4s;
 }
+.right{
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #2d1d5f;
+    color: #fff;
+    border-radius: 50px;
+    padding: 15px;
+    transition: .4s;
+    
+}
 
 .btn:hover{
     background-color: #3457ED;
